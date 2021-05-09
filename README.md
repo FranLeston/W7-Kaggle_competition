@@ -4,12 +4,6 @@
 
 ## Description
 
-- Find the best machine learning model and params for a given dataset. You will do this following the instructions on the Kaggle competition with your cohort name, i.e. **diamonds-datamad0321**, https://www.kaggle.com/c/diamonds-datamad0321
+The goal was to predict diamond prices by using machine learning with data provided from the Kaggle Website. 
 
-
-## Deliverables
-
-- **Jupyter notebooks** where you show the process you followed to get to your submissions.
-
-- A **slide** (.ppt, ipynb, etc) with a summary of the metrics you obtained and the rationale behind it. 
-    - Why do those params work better than others?
+After analyzing and cleaning the data the model that gave the least error for me was the Random Forrest Regressor. It has achieved an accuracy of 0.009278 after submitting the results. You can view the results here: ![Leaderboard](https://www.kaggle.com/c/diamonds-datamad0321/leaderboard)
